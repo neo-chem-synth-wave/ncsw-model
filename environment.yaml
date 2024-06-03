@@ -1,0 +1,7 @@
+name: ncsw-model
+
+channels:
+  - conda-forge
+
+dependencies:
+  - rdkit
