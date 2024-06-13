@@ -51,3 +51,4 @@ feedback, feel free to use [GitHub Issues](https://github.com/neo-chem-synth-wav
 ## References
 **[[1]](https://www.rdkit.org)** **RDKit: Open-source Cheminformatics**: https://www.rdkit.org. Accessed on: June
 1st, 2024.
+
