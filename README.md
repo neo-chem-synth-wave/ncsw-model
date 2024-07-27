@@ -1,13 +1,30 @@
 # NeoChemSynthWave: Model
-![Static Badge](https://img.shields.io/badge/ncsw__model-v.2024.06.1-%23E0457B?logo=github&style=flat)
-![Static Badge](https://img.shields.io/badge/Institute%20of%20Science%20Tokyo-%231C3177?style=flat)
+![Static Badge](https://img.shields.io/badge/ncsw__model----%23DD517F?logo=github&style=flat)
 ![Static Badge](https://img.shields.io/badge/Elix%2C%20Inc.-%235EB6B3?style=flat)
+![Static Badge](https://img.shields.io/badge/Institute%20of%20Science%20Tokyo-%231C3177?style=flat)
 
-Over the last decade, computer-assisted chemical synthesis has re-emerged as a heavily researched subject in
-Chemoinformatics. Even though the idea of utilizing computers for chemical synthesis has existed for as long as
-computers themselves, the high level of reliability and innovation expected of such approaches has been repeatedly
-proven difficult to achieve. In recent years, however, utilizing machine learning has proven particularly promising,
-with novel approaches emerging frequently.
+Welcome to the **NeoChemSynthWave: Model** project !!!
+
+
+## Installation
+A standalone environment can be created using the [git](https://git-scm.com) and [conda](https://conda.io) commands as
+follows:
+
+```shell
+git clone https://github.com/neo-chem-synth-wave/ncsw-model.git
+
+cd ncsw-model
+
+conda env create -f environment.yaml
+
+conda activate ncsw-model-env
+```
+
+The [ncsw_model](/ncsw_model) package can be installed using the [pip](https://pip.pypa.io) command as follows:
+
+```shell
+pip install --no-build-isolation -e .
+```
 
 
 ## License Information
@@ -17,4 +34,4 @@ for more details regarding the license information of external resources utilize
 
 ## Contact
 If you are interested in contributing to this repository by reporting bugs, suggesting improvements, or submitting
-feedback, feel free to use [GitHub Issues](https://github.com/neo-chem-synth-wave/ncsw-data/issues).
+feedback, feel free to use [GitHub Issues](https://github.com/neo-chem-synth-wave/ncsw-model/issues).

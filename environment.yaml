@@ -1,4 +1,4 @@
-name: ncsw-model
+name: ncsw-model-env
 
 channels:
   - conda-forge
